@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea/
+/.idea/libraries
+.DS_Store
+/build
+app/app.iml
+app/src/main/res/values/com_crashlytics_export_strings.xml
+app/src/main/assets/crashlytics-build.properties
+*~
